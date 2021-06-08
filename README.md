@@ -2,7 +2,7 @@
 
 I' m <strong> Maria Eugenia </strong> a future <strong> Full Stack Developer </strong>
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong>.
-- 📫 How to reach me: www.linkedin.com/in/maríaeugeniacosta
+- 📫 How to reach me: <strong>LinkedIn: </strong> www.linkedin.com/in/maríaeugeniacosta or <strong> email: </strong> mariaeugeniacosta1@gmail.com
 <!--
 **eugenia1984/eugenia1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
