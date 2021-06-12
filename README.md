@@ -10,7 +10,7 @@ I' m <strong> Maria Eugenia </strong> a future <strong> Full Stack Developer </s
 
 <h3 align="left">Languages and Tools:</h3>
 
-HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | <br>
+HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT <br>
 NODEJS <br>
 PYTHON | DJANGO
 
