@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I' m Maria Eugenia a future Full Stack Developer
 
-I' m <strong> Maria Eugenia </strong> a future <strong> Full Stack Developer </strong>
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong>.
 
 - 📫 How to reach me: <br>
