@@ -4,8 +4,8 @@ I' m <strong> Maria Eugenia </strong> a future <strong> Full Stack Developer </s
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong>.
 
 - 📫 How to reach me: <br>
- <a href="www.linkedin.com/in/maríaeugeniacosta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="15" width="20" /> María Eugenia Costa </a> <br>
- <a href="https://www.instagram.com/maria.eugenia.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="15" width="20" />maria.eugenia.19</a> <br>
+ <a href="www.linkedin.com/in/maríaeugeniacosta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="15" width="20" /> María Eugenia Costa </a> 
+ <a href="https://www.instagram.com/maria.eugenia.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="15" width="20" />maria.eugenia.19</a> 
  <strong> email: </strong> mariaeugeniacosta1@gmail.com <br>
 
 <h3 align="left">Languages and Tools:</h3>
