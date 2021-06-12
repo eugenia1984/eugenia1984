@@ -10,7 +10,7 @@ I' m <strong> Maria Eugenia </strong> a future <strong> Full Stack Developer </s
 
 <h3 align="left">Languages and Tools:</h3>
 
-HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, NODEJS, PYTHON, DJANGO
+HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | NODEJS | PYTHON | DJANGO
 
 <!--
 **eugenia1984/eugenia1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
