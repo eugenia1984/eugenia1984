@@ -11,7 +11,8 @@
 
 HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT <br>
 NODEJS <br>
-PYTHON | DJANGO
+PYTHON | DJANGO <br>
+GIT | GITHUB
 
 <!--
 **eugenia1984/eugenia1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
