@@ -4,7 +4,7 @@
 
 ```
 const euge = {
- lenguajes: [javascript, python, nodejs]
+ languages: [javascript, nodejs, python, java]
  tools: [git, github]
  front: [html, css3]
  library: [bootstrap]
