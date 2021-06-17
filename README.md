@@ -1,6 +1,6 @@
 ### Hi there 👋 I' m Maria Eugenia 
 
-### Fonr End Developer, Full Stack Developer in process
+### Front End Developer, Full Stack Developer in process
 
 ```
 const euge = {
