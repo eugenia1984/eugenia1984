@@ -1,4 +1,16 @@
-### Hi there 👋 I' m Maria Eugenia a future Full Stack Developer
+### Hi there 👋 I' m Maria Eugenia 
+
+### Fonr End Developer, Full Stack Developer in process
+
+```
+const euge = {
+ lenguajes: [javascript, python, nodejs]
+ tools: [git, github]
+ front: [html, css3]
+ library: [bootstrap]
+ framewrok: [django]
+}
+```
 
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong>.
 
@@ -7,12 +19,6 @@
  <a href="https://www.instagram.com/maria.eugenia.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="15" width="20" />maria.eugenia.19</a> 
  <strong> email: </strong> mariaeugeniacosta1@gmail.com <br>
 
-<h3 align="left">Languages and Tools:</h3>
-
-HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT <br>
-NODEJS <br>
-PYTHON | DJANGO <br>
-GIT | GITHUB
 
 <!--
 **eugenia1984/eugenia1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
