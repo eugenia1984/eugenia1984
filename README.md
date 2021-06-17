@@ -8,7 +8,7 @@ const euge = {
  tools: [git, github]
  front: [html, css3]
  library: [bootstrap]
- framewrok: [django]
+ framework: [django]
 }
 ```
 
