@@ -4,10 +4,10 @@
 
 ```
 const mariaEugenisCosta = {
- languages: [ 'javascript' ,  'nodejs', 'python', 'java'],
- tools: [ 'git', 'github'],
+ languages: ['javascript', 'nodejs', 'python', 'java'],
+ tools: ['git', 'github'],
  front: ['html5', 'css3'],
- library: [ 'bootstrap'],
+ library: ['bootstrap'],
  framework: ['django']
 }
 
