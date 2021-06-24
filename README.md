@@ -3,13 +3,14 @@
 ### Front End Developer, Full Stack Developer in process
 
 ```
-const euge = {
- languages: [javascript, nodejs, python, java]
- tools: [git, github]
- front: [html, css3]
- library: [bootstrap]
- framework: [django]
+const mariaEugenisCosta = {
+ languages: [ 'javascript' ,  'nodejs', 'python', 'java'],
+ tools: [ 'git', 'github'],
+ front: ['html5', 'css3'],
+ library: [ 'bootstrap'],
+ framework: ['django']
 }
+
 ```
 
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong>.
