@@ -57,12 +57,14 @@ const mariaEugenisCosta = {
  
 </p> 
 
-<p align="left"> 
-
-
+<p align="left"> Extra </p>
  <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
  </a> 
+ 
+<p align="left"> Back End </p>
+
+<p align="left"> 
 
  <a href="https://www.java.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
