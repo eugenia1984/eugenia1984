@@ -42,6 +42,8 @@ e-mail: **mariaeugeniacosta@gmail.com**
  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> Front End </p> 
@@ -101,6 +103,8 @@ e-mail: **mariaeugeniacosta@gmail.com**
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenia1984&show_icons=true&locale=en&layout=compact" alt="eugenia1984" />
 </p>
+
+---
 
 - ⚡ Fun fact **I love to cook**
 
