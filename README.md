@@ -23,8 +23,16 @@ const mariaEugenisCosta = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
-- 📫 How to reach me by e-mail: **mariaeugeniacosta@gmail.com**
+- 📫 How to reach me by: <br>
+e-mail: **mariaeugeniacosta@gmail.com**
 
+<p align="left">
+  <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> 
+  maríaeugeniacosta 
+ </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
