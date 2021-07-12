@@ -18,9 +18,7 @@ const mariaEugenisCosta = {
 
 ```
 
-- 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong> and studying <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg. </i>.
-
-- 🌱 I’m currently learning **Java**. <br>
+- 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong> and studying  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg. </i>.
 
 - 📫 How to reach me: <br>
 
@@ -29,11 +27,6 @@ const mariaEugenisCosta = {
  <a href="https://www.instagram.com/maria.eugenia.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="15" width="20" />maria.eugenia.19</a> 
 
 <strong> email: </strong> mariaeugeniacosta1@gmail.com <br>
-
-
-
-
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
