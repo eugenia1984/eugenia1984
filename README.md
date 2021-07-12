@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Eugenia</h1>
 
-<h3 align="center">A passionate Front End Developer, Full Stack Developer in process</h3>
+<h3 align="center">A passionate Front End Developer <br> Full Stack Developer in process</h3>
 
 
 ```
