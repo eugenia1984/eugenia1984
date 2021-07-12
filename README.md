@@ -6,13 +6,12 @@
 ```
 const mariaEugenisCosta = {
 
- languages: ['JavaScript', 'Python', 'Java'],
- entornoJavaScript: ['Nodejs'],
- tools: ['Git', 'GitHub'],
  front: ['HTML5', 'CSS3'],
  library: ['Bootstrap'],
- ide: ['Visual Studio Code', 'NetBeans', 'PyCharm']
- 
+ languages: ['JavaScript', 'Python', 'Java'],
+ ide: ['Visual Studio Code', 'NetBeans', 'PyCharm'],
+ dataBase: ['MySQL'],
+ tools: ['Git', 'GitHub']
 }
 
 ```
