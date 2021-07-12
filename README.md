@@ -11,7 +11,6 @@ const mariaEugenisCosta = {
  tools: ['Git', 'GitHub'],
  front: ['HTML5', 'CSS3'],
  library: ['Bootstrap'],
- framework: ['django'],
  ide: ['Visual Studio Code', 'NetBeans', 'PyCharm']
  
 }
