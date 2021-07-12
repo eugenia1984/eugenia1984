@@ -1,6 +1,7 @@
-### Hi there 👋 I' m Maria Eugenia 
+<h1 align="center">Hi 👋, I'm Maria Eugenia</h1>
 
-### Front End Developer, Full Stack Developer in process
+<h3 align="center">A passionate Front End Developer, Full Stack Developer in process</h3>
+
 
 ```
 const mariaEugenisCosta = {
@@ -27,8 +28,7 @@ const mariaEugenisCosta = {
 
 <strong> email: </strong> mariaeugeniacosta1@gmail.com <br>
 
-<h1 align="center">Hi 👋, I'm Maria Eugenia</h1>
-<h3 align="center">A passionate Front End Developer</h3>
+
 
 - 🔭 I’m currently working aton **Consult-ar**
 
