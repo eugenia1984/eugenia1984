@@ -12,6 +12,7 @@ const mariaEugenisCosta = {
  ide: ['Visual Studio Code', 'NetBeans', 'PyCharm'],
  dataBase: ['MySQL'],
  tools: ['Git', 'GitHub']
+ 
 }
 
 ```
