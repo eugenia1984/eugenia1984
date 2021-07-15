@@ -3,19 +3,6 @@
 <h3 align="center">A passionate Front End Developer <br> Full Stack Developer in process</h3>
 
 
-```
-const mariaEugenisCosta = {
-
- front: ['HTML5', 'CSS3'],
- library: ['Bootstrap'],
- languages: ['JavaScript', 'Python', 'Java'],
- ide: ['Visual Studio Code', 'NetBeans', 'PyCharm'],
- dataBase: ['MySQL'],
- tools: ['Git', 'GitHub']
- 
-}
-
-```
 
 - 🔭 I’m currently working on Consult-ar as a <strong> Front End Developer </strong> and studying  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg. </i>.
 
