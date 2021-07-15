@@ -33,10 +33,7 @@ e-mail: **mariaeugeniacosta@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> Front End </p> 
-
-
-<p align="left"> 
+<p align="left"> Front End : 
 
   <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -57,9 +54,7 @@ e-mail: **mariaeugeniacosta@gmail.com**
 </p> 
 
  
-<p align="left"> Back End </p>
-
-<p align="left"> 
+<p align="left"> Back End : 
 
   <a href="https://www.java.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -73,15 +68,13 @@ e-mail: **mariaeugeniacosta@gmail.com**
  </a> 
 </p>
 
-<p align="left"> Data Base </p> 
-
-<p align="left"> 
+<p align="left"> Data Base : 
   <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  </a> 
 </p> 
 
-<p align="left"> Extra </p>
+<p align="left"> Extra : 
  <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
  </a> 
