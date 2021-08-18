@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Pigmalion as a <strong> Trinee Java Developer </strong> and studying  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg. </i>.
+- 🔭 I’m currently working on Pigmalion as a <strong> Trainee Java Developer </strong> and studying  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg. </i>.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
