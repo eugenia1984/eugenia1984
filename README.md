@@ -4,8 +4,9 @@
 
 
 
-- 🔭 I’m currently working on Pigmalion as a <strong> Trainee Java Developer </strong> and studying  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
-
+- 🔭 I’m currently working on Pigmalion as a <strong> Trainee Java Developer </strong> .
+I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
+Now I'm studying <strong> Full Stacj React & node.js </strong> in <strong> Numen Academy </strong>.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
