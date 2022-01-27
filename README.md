@@ -2,11 +2,14 @@
 
 <h3 align="center">A passionate Front End Developer <br> Full Stack Developer in process</h3>
 
+<h4> I'm currently studying in UTN, University Technician in Programming</h4>
+
+I'm  also studying <strong> Full StacK </strong> with <strong> React & Node.js </strong> in <strong> Numen Academy </strong>. Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
 
 
-- 🔭 I’m currently working on Hogarth as a <strong> Front End Developer </strong> .
+- 🔭 I’m working on Hogarth as a <strong> Front End Developer </strong> .
 
-- Now I'm studying <strong> Full StacK </strong> with <strong> React & Node.js </strong> in <strong> Numen Academy </strong>. Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
