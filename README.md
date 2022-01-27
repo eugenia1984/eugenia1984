@@ -4,7 +4,9 @@
 
 <h4> I'm currently studying in UTN, University Technician in Programming</h4>
 
-I'm  also studying <strong> Full StacK </strong> with <strong> React & Node.js </strong> in <strong> Numen Academy </strong>. Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
+- I'm  also studying <strong> Full StacK </strong> with <strong> React & Node.js </strong> in <strong> Numen Academy </strong>. 
+
+- Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>.
 
 
 - 🔭 I’m working on Hogarth as a <strong> Front End Developer </strong> .
