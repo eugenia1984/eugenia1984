@@ -20,16 +20,16 @@
 
 ...e-mail: **mariaeugeniacosta@gmail.com**
 
-...<p align="left">
-  <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank">
+<p align="left">
+  ...<a href="https://linkedin.com/in/maríaeugeniacosta" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> 
   maríaeugeniacosta 
  </a>
 </p>
 
-...<p align="left">
-<a href="https://instagram.com/maria.eugenia.19" target="blank">
+<p align="left">
+ ...<a href="https://instagram.com/maria.eugenia.19" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maria.eugenia.19" height="30" width="40" />
  </a>
  <a href="https://instagram.com/maria.eugenia.19" target="blank"> 
