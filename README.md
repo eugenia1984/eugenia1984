@@ -4,12 +4,12 @@
 
 <h4> I'm currently studying in UTN, University Technician in Programming</h4>
 
-- I'm  also studying <strong> Full Stack </strong> with <strong> React & Node.js </strong> in <strong> Numen Academy </strong> and <strong> Codo a Codo </strong>. 
+- I'm  also studying <strong>Full Stack</strong> with <strong>React & Node.js</strong> in <strong>Numen Academy</strong>, <strong>Full Stack: React y Node.js</strong> with <strong>Codo a Codo</strong> and the <strong>React Skill Factory</stron> with <strong>Avalith</strong>. 
 
-- Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i> Egg </i> and <i> Silicon Misiones </i>. And was working as a <strong> Java Back End Developer </strong> for 5 months.
+- Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i>. And was working as a <strong> Java Back End Developer </strong> for 5 months. These year I'm back with <img src="https://img.icons8.com/clouds/100/000000/like--v1.png"/> <strong>#JavaScript</strong>.
 
 
-- 🔭 I’m working on Hogarth as a <strong> Front End Developer </strong> .
+- 🔭 I’m working on Hogarth as a <strong>Front End Developer</strong> .
 
 
 
