@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Front End Developer <br> Full Stack Developer in process</h3>
 
-<h4>I'm currently studying in UTN, University Technician in Programming</h4>
+- I'm currently studying in UTN, University Technician in Programming.
 
 - I'm  also studying <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: React y Node.js</strong> with <i>Codo a Codo</i> and the <strong>React Skill Factory</strong> with <i>Avalith</i>. 
 
