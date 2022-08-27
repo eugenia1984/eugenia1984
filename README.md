@@ -6,7 +6,7 @@
 
 - I'm  also studying <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: React y Node.js</strong> with <i>Codo a Codo</i> and the <strong>React Skill Factory</strong> with <i>Avalith</i>. 
 
-- Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i>. And was working as a <strong> Java Back End Developer </strong> for 5 months. These year I'm back with <img src="https://img.icons8.com/clouds/100/000000/like--v1.png"/> <strong>#JavaScript</strong>.
+- Last year I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and was working as a <strong> Java Back End Developer </strong> for 5 months, but these year I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
 
 
 - 🔭 I’m working on Hogarth as a <strong>Front End Developer</strong> .
