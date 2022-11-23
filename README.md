@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
-- 📫 How to reach me by: e-mail: <a href="mailto:costamariaeugenia1">costamariaeugenia1@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="30" width="40" /> at <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> maríaeugeniacosta </a>.</p>
+- 📫 How to reach me by: e-mail: <a href="mailto:costamariaeugenia1">costamariaeugenia1@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="30" width="30" /> at <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> maríaeugeniacosta </a>.</p>
 
 ---
 
