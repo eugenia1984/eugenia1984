@@ -38,9 +38,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
 </p>
 
-<p>
+<!--<p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenia1984&show_icons=true&locale=en&layout=compact" alt="eugenia1984" />
-</p>
+</p>-->
 
 ---
 
