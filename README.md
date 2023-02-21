@@ -4,7 +4,7 @@
 
 - I'm currently studying in UTN, University Technician in Programming. In 2022, I studied <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: React y Node.js</strong> with <i>Codo a Codo</i> and the <strong>React</strong> with <i>Codo a codo</i>. In 2021, I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but these year I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
 
-- 🔭 I’m working on **Softtek** as a <strong>Front End Developer</strong> with **React**.
+- 🔭 I’m working on **Softtek** as a <strong>Front End Developer</strong> with **React**, **TypeScript** and **MaterialUI**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
