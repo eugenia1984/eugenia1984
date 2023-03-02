@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Eugenia</h1>
 
-<h3 align="center">A passionate Front End Developer <br> Full Stack Developer in process</h3>
+<h3 align="center">A passionate Front End Developer</h3>
 
 - I'm currently studying in UTN, University Technician in Programming, **React** and **UX/UI Design** with Codo a Codo. In 2022, I studied <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>. In 2021, I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but since 2022 I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
 
