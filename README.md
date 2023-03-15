@@ -63,16 +63,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="30" height="30" style="margin-left: 50px;" /> 
 </p>
 
-<!--<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenia1984&show_icons=true&locale=en&layout=compact" alt="eugenia1984" />
-</p>-->
-
 ---
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenia1984&show_icons=true&locale=en&layout=compact" alt="eugenia1984" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenia1984&show_icons=true&locale=en" alt="eugenia1984" /></p>
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenia1984&show_icons=true&locale=en" alt="eugenia1984" /></p>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenia1984&" alt="eugenia1984" /></p>
 
