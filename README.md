@@ -75,6 +75,6 @@
 
 ---
 
-- ⚡ Fun fact : I love cooking, pilates, cycling and reading.
+⚡ Fun fact : I love cooking, pilates, cycling and reading.
 
 ---
