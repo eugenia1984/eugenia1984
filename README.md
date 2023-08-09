@@ -42,9 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="mark down" width="30" height="30" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" style="margin-left: 100px;" />  |
 
 
-<p align="left"> IDE:
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="30" height="30" style="margin-left: 100px;" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="30" height="30" style="margin-left: 100px;" /> 
+| IDE |
+| --- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="30" height="30" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="30" height="30" style="margin-left: 100px;" />  |
 
 ---
 
