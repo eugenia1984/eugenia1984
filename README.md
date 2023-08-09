@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on **Softtek** as a <strong>Front End Developer</strong> with **React**, **TypeScript** and **MaterialUI**.
 
-- This year I studied: **React** and **UX/UI Design** with Codo a Codo. In 2022: <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>.🌱 In 2021: <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but since 2022 I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
+- This year I studied: **React** and **UX/UI Design** with Codo a Codo. 🌱 In 2022: <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>.🌱 In 2021: <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but since 2022 I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
 
