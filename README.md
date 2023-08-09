@@ -22,15 +22,15 @@
 
 | Back End |
 | -------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-left: 100px;" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-left: 100px;" /> |
 
 | Data Base | 
 | --------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-left: 100px;"  /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo db" width="40" height="40" style="margin-left: 100px;" />  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-left: 100px;"  /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo db" width="50" height="50" style="margin-left: 100px;" />  |
 
 | Ágile |
 | ----- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50" style="margin-left: 100px;" /> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="60" height="60" style="margin-left: 100px;" /> |
 
 | Control version |
 | --------------- |
@@ -38,12 +38,12 @@
 
 | Extra |
 | ----- |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="mark down" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="margin-left: 100px;" />  |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="mark down" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="margin-left: 100px;" />  |
 
 
 | IDE |
 | --- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40" style="margin-left: 100px;" />  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="50" height="50" style="margin-left: 100px;" />  |
 
 ---
 
