@@ -34,7 +34,7 @@
 
 | Control version |
 | --------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svgg" alt="github" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="margin-left: 100px;" /> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="margin-left: 100px;" /> |
 
 | Extra |
 | ----- |
