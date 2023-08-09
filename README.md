@@ -40,7 +40,6 @@
 | ----- |
 | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="30" height="30" style="margin-left: 100px;" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="mark down" width="30" height="30" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" style="margin-left: 100px;" />  |
-</p>
 
 
 <p align="left"> IDE:
