@@ -6,7 +6,7 @@
 
 - This year I studied: **React** and **UX/UI Design** with Codo a Codo. 🌱 In 2022: <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>.🌱 In 2021: <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but since 2022 I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
 
-- 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
+- 👨‍💻 All of my projects are available at [portfolio-mec.netlify.app/](https://portfolio-mec.netlify.app/)
 
 - 📫 How to reach me by: e-mail: <a href="mailto:costamariaeugenia1">costamariaeugenia1@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="25" width="25" /> at <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> maríaeugeniacosta</a>.</p>
 
