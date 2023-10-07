@@ -10,7 +10,7 @@
 
 - 📫 How to reach me by: e-mail: <a href="mailto:costamariaeugenia1">costamariaeugenia1@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="25" width="25" /> at <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> maríaeugeniacosta</a>.</p>
 
-- I speak:  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-states-emoji.png" alt="united-states-emoji" width="28" height="28" style="margin-left: 100px;" />  English, <img width="28" height="28" src="https://img.icons8.com/color/28/spain.png" alt="spain" width="28" height="28" style="margin-left: 100px;"/> Spanish and  <img width="28" height="28" src="https://img.icons8.com/color/28/brazil.png" alt="brazil" width="28" height="28" style="margin-left: 100px;"/> Portuguese
+- I speak:  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-states-emoji.png" alt="united-states-emoji" width="28" height="28" style="margin-left: 100px; margin-right: 100px;" />  English, <img width="28" height="28" src="https://img.icons8.com/color/28/spain.png" alt="spain" width="28" height="28" style="margin-left: 100px;"/> Spanish and  <img width="28" height="28" src="https://img.icons8.com/color/28/brazil.png" alt="brazil" width="28" height="28" style="margin-left: 100px;"/> Portuguese
 
 ---
 
