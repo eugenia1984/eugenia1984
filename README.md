@@ -37,6 +37,9 @@
 | ----- | --- | -------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="60" height="60" style="margin-left: 100px;" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="70" height="70" style="margin-left: 100px;" />  | <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="FireFox" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" alt="opera" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" alt="Safari" width="40" height="40" style="margin-left: 100px;" /> |
 
+| Test |
+| ---- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress" width="40" height="40" style="margin-left: 100px;"/> |
 
 ---
 
