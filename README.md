@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Front End Developer</h2> 
 
-🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript** and **MaterialUI**.
+🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
 
 - 🌱 In 2023 I studied: **React** and **UX/UI Design** with Codo a Codo and get my **Programming degree** at **UTN** (Universidad Tecnológica Nacional).
 
