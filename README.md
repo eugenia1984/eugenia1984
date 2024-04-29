@@ -2,6 +2,7 @@
 
 <h2 align="center">A passionate Front End Developer</h2> 
 
+
 🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
 
 - 🌱 At 2024 I continue with React, TypeScript, AI and Next.
