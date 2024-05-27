@@ -5,7 +5,7 @@
 
 🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
 
-- 🌱 At 2024 I continue with React, TypeScript, AI and Next.
+- 🌱 At 2024 I continue with React, TypeScript, Next.js and Node.js.
 
 - 🌱 In 2023 I studied: **React** and **UX/UI Design** with Codo a Codo and get my **Programming degree** at **UTN** (Universidad Tecnológica Nacional).
 
