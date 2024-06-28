@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Eugenia</h1>
 
-<h2 align="center">A passionate Front End Developer</h2> 
+<h2 align="center">A passionate Front End Developer with more than 3 years of experience</h2> 
 
 
 🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
