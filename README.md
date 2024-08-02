@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Front End Developer with more than 3 years of experience</h2> 
 
 
-🔭 I’m working as a <strong>Front End Developer</strong> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
+🔭 I’m working as a <strong>Front End Developer</strong> at Softo with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
 
 - 🌱 At 2024 I continue with React, TypeScript, Next.js and Node.js.
 
