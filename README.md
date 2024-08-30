@@ -3,7 +3,7 @@
 
 <h2 align="center">A passionate Front End Developer with 3 years of experience</h2> 
 
-- 🔭 I’m working as a <strong>Front End Developer</strong> at Softo with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
+- 🔭 I’m working as a **Front End Developer** at <i>Softo</i> with **Next.js**, **React**, **TypeScript**, **MaterialUI** and **Styled-Components**.
 
 - 🌱 At 2024, moved to Spain and continue with **React**, **TypeScript**, **Next.js** and **Node.js**. Work in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com).
 
