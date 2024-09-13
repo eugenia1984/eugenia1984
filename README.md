@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Maria Eugenia</h1>
 
 
-<h2 align="center">A passionate Front End Developer with 3 years of experience</h2> 
+<h2 align="center">A passionate Front End Developer with + than 3 years of experience</h2> 
 
 - 🔭 I’m working as a **Front End Developer** at <i>Softo</i> with **Next.js**, **React**, **TypeScript**, **MaterialUI**, **Styled-Components**, **React Hook Form** and **Cypress**.
 
