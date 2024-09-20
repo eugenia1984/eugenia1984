@@ -29,7 +29,7 @@
 
 | Front End Frameworks |
 | -------------------- |
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40" style="margin-left: 100px;" />  / <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" style="margin-left: 100px;" />  <img width="40" height="40" src="https://img.icons8.com/keek/40/pineapple.png" style="margin-left: 100px;" alt="pinia"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40" style="margin-left: 100px;" />  <br /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" style="margin-left: 100px;" />  <img width="40" height="40" src="https://img.icons8.com/keek/40/pineapple.png" style="margin-left: 100px;" alt="pinia"/> |
 
 | Back End | Data Base |
 | -------- | --------- |
