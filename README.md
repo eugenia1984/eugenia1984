@@ -4,7 +4,7 @@
 
 - 🔭 I’m working as a **Front End Developer** at <i>Softo</i> with **Next.js**, **React**, **TypeScript**, **MaterialUI**, **Styled-Components**, **React Hook Form** and **Cypress**.
 
-- 🌱 At 2024, moved to Spain and continue with **React**, **TypeScript**, **Next.js** and **Node.js**. Work in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com).
+- 🌱 At 2024, moved to Spain and continue with **React**, **TypeScript**, **Next.js** and learning **VUE.js**. Worked in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com).
 
 - 🌱 In 2023 I studied: **React** and **UX/UI Design** with Codo a Codo and get my **Programming degree** at **UTN** (Universidad Tecnológica Nacional).
 
