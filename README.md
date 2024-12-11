@@ -57,7 +57,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenia1984&show_icons=true&locale=en" alt="eugenia1984" style="margin-left: 50px;"/></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenia1984&" alt="eugenia1984" style="margin-left: 50px;"/></p>
+
 
 ---
 
