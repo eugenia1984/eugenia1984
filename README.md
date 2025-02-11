@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Maria Eugenia Costa</h1>
 
 
-<h2 align="center">A passionate Front End Developer with 3 years of experience</h2> 
+<h2 align="center">A passionate Front End Developer with 4 years of experience</h2> 
 
-- 🔭 I’m working as a **Front End Developer** at **CellsIA**, using Vue.js.
+- 🔭 I’m working as a **Front End Developer** at **Capgrmini**, using **React**.
 
-- 🌱 At 2024, moved to Spain and continue with **React**, **TypeScript**, **Next.js** and learning **VUE.js**. Worked in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com).
-
-
+- 🌱 In 2024 I continue with **React**, **TypeScript**, **Next.js**. I'd Worked in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com) and as a contractor for **Softo**. Then moved to Spain, where I learned **VUE.js**, that I used while working at **Cells-IA**.
+ 
 - 🌱 In 2023 I studied: **React** and **UX/UI Design** with Codo a Codo and get my **Programming degree** at **UTN** (Universidad Tecnológica Nacional).
 
 - 🌱 In 2022: <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>.
