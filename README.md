@@ -3,7 +3,7 @@
 
 <h2 align="center">A passionate Front End Developer with 4 years of experience</h2> 
 
-- 🔭 I’m working as a **Front End Developer** at **Capgrmini**, using **React**.
+- 🔭 I’m working as a **Front End Developer** at **Capgemini**, using **React**.
 
 - 🌱 In 2024 I continue with **React**, **TypeScript**, **Next.js**. I'd Worked in some freelance jobs for KQSS (developed 2 MVP with React and the landing page of Veritec: https://veritec.ai) and DG SMART GROUP (developed the landing page: https://dgsmartgroup.com) and as a contractor for **Softo**. Then moved to Spain, where I learned **VUE.js**, that I used while working at **Cells-IA**.
  
