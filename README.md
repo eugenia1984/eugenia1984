@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Maria Eugenia Costa</h1>
 
-
 <h2 align="center">A passionate Front End Developer with 4 years of experience</h2> 
 
 - 🔭 I’m working as a **Front End Developer** at **Capgemini**, using **React**.
