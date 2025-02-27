@@ -19,6 +19,7 @@
 
 - I speak:  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-states-emoji.png" alt="united-states-emoji" width="28" height="28" style="margin-left: 100px; margin-right: 100px;" />  English, <img width="28" height="28" src="https://img.icons8.com/color/28/spain.png" alt="spain" width="28" height="28" style="margin-left: 100px;"/> Spanish and  <img width="28" height="28" src="https://img.icons8.com/color/28/brazil.png" alt="brazil" width="28" height="28" style="margin-left: 100px;"/> Portuguese
 
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
